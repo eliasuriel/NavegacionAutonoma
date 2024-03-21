@@ -1,0 +1,23 @@
+rosparam set time 0.0
+rosparam set mode "Step"
+rosparam set control_kp 0.05
+rosparam set control_ki 0.15
+rosparam set time 60.0
+
+
+rosparam set time 0.0
+rosparam set freq 0.1
+rosparam set sq_up 10.0
+rosparam set sq_down 2.0
+rosparam set mode "Square"
+rosparam set control_kp 0.03
+rosparam set control_ki 0.2
+rosparam set time 60.0
+
+
+rosparam set time 0.0
+rosparam set freq 0.25
+rosparam set mode "Sine"
+rosparam set control_kp 0.05
+rosparam set control_ki 0.4
+rosparam set time 60.0

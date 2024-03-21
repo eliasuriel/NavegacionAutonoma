@@ -1,0 +1,4 @@
+control_kp: 0.05
+control_ki: 0.15
+conrol_kd: 0.0
+control_dt: 0.01
